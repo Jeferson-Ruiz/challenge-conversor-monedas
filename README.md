@@ -1,18 +1,9 @@
-## Getting Started
+## Introducción
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+El presente proyecto forma parte de una serie de desafíos propuestos por Alura como parte de su programa de formación en el lenguaje Java. 
+En este contexto, el proyecto consiste en realizar solicitudes a una API que proporciona información sobre divisas. El objetivo es desarrollar un pequeño sistema que permita realizar conversiones monetarias mediante el consumo de dicha API.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Componentes del proyecto
+- Gson
+- Java version 17
+- Api https://www.exchangerate-api.com/
